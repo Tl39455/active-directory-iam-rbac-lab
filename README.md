@@ -143,7 +143,7 @@ Successfully built an IAM lab in Active Directory that demonstrates role-based a
 ![](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/4e45230576eeb33759eac5dd6175b8ae8c726c8f/iam-it-folder-access-denied.png)
 
 ### Disabled Account
-![Disabled Account](screenshots/disabled-account.png)
+![Disabled Account]([screenshots/disabled-account.png](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/984d3ca3af746978254848037ab4e3a2a765726d/iam-disabled-account.png))
 
 ## Resume Bullet
 - Built an IAM lab in Active Directory to implement role-based access control using security groups, least-privilege folder permissions, and identity lifecycle administration across domain resources.
