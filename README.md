@@ -118,7 +118,7 @@ Successfully built an IAM lab in Active Directory that demonstrates role-based a
 ## Screenshots
 
 ### OU Structure
-![OU Structure](screenshots/ou-structure.png)
+![OU Structure](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/241ff4755f7089afd96a8711ce848dc57d2b8bf7/iam-ou-structure.png)
 
 ### IAM Users
 ![IAM Users](screenshots/iam-users.png)
