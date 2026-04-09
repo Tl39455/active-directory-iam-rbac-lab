@@ -133,10 +133,14 @@ Successfully built an IAM lab in Active Directory that demonstrates role-based a
 ![Folder Permissions](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/684fd1028fec35168823939ab433885d0e872fa1/iam-folder-permissions.png)
 
 ### Allowed Access
-![Allowed Access](screenshots/allowed-access.png)
+![Allowed Access](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/3f047efdc94f651f6987c636fb1cbbea92e822f1/iam-hr-folder-access.png)
+
+![](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/3f047efdc94f651f6987c636fb1cbbea92e822f1/iam-hr-folder-access.png)
 
 ### Denied Access
 ![Denied Access](screenshots/denied-access.png)
+
+![](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/3f047efdc94f651f6987c636fb1cbbea92e822f1/iam-hr-folder-access.png)
 
 ### Disabled Account
 ![Disabled Account](screenshots/disabled-account.png)
