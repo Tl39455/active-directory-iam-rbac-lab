@@ -124,7 +124,7 @@ Successfully built an IAM lab in Active Directory that demonstrates role-based a
 ![IAM Users](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/0f7092ccba6e46de52b90d2da190ab3e6ddfffb7/iam-users.png)
 
 ### Security Groups
-![Security Groups](screenshots/security-groups.png)
+![Security Groups](https://github.com/Tl39455/active-directory-iam-rbac-lab/blob/08492878d3d1ddeecaf5019609a53bbed9868e7d/iam-security-group.png)
 
 ### Group Membership
 ![Group Membership](screenshots/group-membership.png)
