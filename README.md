@@ -79,18 +79,16 @@ Broad access groups were removed where appropriate after inheritance was disable
 ## Testing Performed
 
 ### Allowed Access Validation
-Verified that users could access only the resources assigned to their department.
+Verified that user could access only the resources assigned to their department.
 
 Examples:
 - `hr.user1` successfully accessed the HR share
-- `sec.user1` successfully accessed the Security share
 
 ### Denied Access Validation
-Verified that users were denied access to unauthorized department shares.
+Verified that user were denied access to unauthorized department shares.
 
-Examples:
-- `hr.user1` was denied access to the Security share
-- `sec.user1` was denied access to the Finance share
+Example:
+- `it.user1` was denied access to the HR share
 
 ## Identity Lifecycle Actions
 This project also supports basic IAM lifecycle administration:
